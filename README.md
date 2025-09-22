@@ -36,7 +36,13 @@ Save time, stay active, and increase your chances of making matches — all whil
 
 ##
 <p align="center">
-  <img src="bumble-bot.png" alt="bumble bot" width="95%">
+  <img src="bumble-bot.png" alt="bumble bot" width="85%">
+</p>
+
+## Architecture 
+
+<p align="center">
+  <img src="bumble-bot-architecture.png" alt="bumble bot" width="85%">
 </p>
 
 ##  Why Use Bumble Bot?
